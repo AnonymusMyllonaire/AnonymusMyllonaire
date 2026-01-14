@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmad Khan</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Ahmad Aftab</h1>
 <h3 align="center">A passionate Artificial Intelligence developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonymusmyllonaire&label=Profile%20views&color=0e75b6&style=flat" alt="anonymusmyllonaire" /> </p>
